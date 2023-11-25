@@ -1,4 +1,4 @@
-<img width="861" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/eb29b571-bc56-4585-abca-45b5096da240"># API_KASIR
+#API_KASIR
 Landing Page Web Aplikasi API Kasir (tanpa Login)
 <img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/53428b7e-14e1-4f52-961b-0f4984d656a9">
 
