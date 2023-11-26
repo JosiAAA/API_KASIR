@@ -44,6 +44,9 @@ Riwayat pembelian
 
 
 #MENU ADMIN
+untuk melakukan login pada menu admin, gunakan akun berikut
+<img width="479" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/99460450-6d05-4234-b2cb-6484e067892a">
+
 ini adalah menu admin, dimana admin dapat mengelola tabel pada database 
 
 <img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/5dc57217-b822-4195-8da3-6d119c91997c">
