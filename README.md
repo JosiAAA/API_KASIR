@@ -43,6 +43,49 @@ Riwayat pembelian
 <img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/5a143d3c-1d7e-4585-8802-ee4d42948949">
 
 
+#MENU ADMIN
+ini adalah menu admin, dimana admin dapat mengelola tabel pada database 
+
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/5dc57217-b822-4195-8da3-6d119c91997c">
+
+UPDATE
+untuk melakukan update, tekan tombol pensil pada opsi yang tersedia pada tabel
+<img width="1129" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/ef9db9ab-169e-4dd3-aed8-2caef9cdfd0b">
+
+jika sudah,maka pada bagian opsi akan menampilkan logo check, dan update data bisa dilakukan dengan cara menginputkan data baru kedalam row pada tabel.
+Jika sudah melakukan input data selanjutnya tekan logo check tersebut
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/a418c440-fcc8-4f4b-bd6e-5fa63623615f">
+
+Hasil
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/e6ac6198-1377-49d5-9950-901bed312908">
+
+DELETE
+untuk melakukan delete, tekan tombol x
+<img width="1125" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/d4f19732-bbe7-4a7f-85d5-12b887bbe5fe">
+Akan muncul konfirmasi penghapusan
+<img width="1277" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/074362c0-84c3-4ec7-bb8c-15f87881491c">
+Hasil
+Pulpen hilang dari tabel barang
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/21cc79a9-9626-4289-bb1a-db13d4410af8">
+
+CREATE
+untuk melakukan create, input data kedalam row pada tabel, jika sudah klik tombol check
+<img width="1124" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/535d9bb7-29c4-43c0-9799-06562b84f7c2">
+
+hasil
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/abcd531a-7a87-4204-9dc6-2f6db3a84755">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
