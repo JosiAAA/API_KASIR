@@ -78,6 +78,15 @@ untuk melakukan create, input data kedalam row pada tabel, jika sudah klik tombo
 hasil
 <img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/abcd531a-7a87-4204-9dc6-2f6db3a84755">
 
+Tampilan CRUD ADMIN pada tabel-tabel lainnya
+Tabel User
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/363c6c21-5e96-4d01-add1-a6cc2e9061f4">
+
+Tabel Transaksi
+<img width="1280" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/3aa68a80-774b-4925-993f-02954509a45f">
+
+
+
 
 
 
