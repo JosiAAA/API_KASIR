@@ -1,0 +1,195 @@
+.hal-search h1 {
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: clamp(1.75rem, 1.75rem + .25 * (100vw - 23.4375rem) / 66.5625, 2rem);
+    font-weight: 600;
+  }
+
+  .hal-search {
+    margin-top: 10%;
+
+  }
+
+  p {
+    color: #767676;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  .search-form{
+    
+    margin-top: 3%;
+    margin-left: 0px
+  }
+  input{
+    border: none;
+  }
+  
+  /* i.fa-magnifying-glass {
+ 
+   position: absolute;
+   left:0;
+   margin-left: 35%;
+   margin-top: 5px;
+  } */
+  .search-box {
+    margin-top: 1%;
+    margin-left: 35%;
+    display: flex;
+    align-items: center; /* Menyusun ikon dan formulir secara vertikal */
+    
+}
+
+.search-box i {
+    margin-right: 20px; /* Menambahkan jarak antara ikon dan formulir */
+    margin-top: 40px;
+    color: #484848;
+    margin-left: 1%;
+}
+
+.search-form input {
+    margin-right: 5px; /* Menambahkan jarak antara input dan tombol */
+    width: 500px;
+    outline: none; /* Menghilangkan outline */
+}
+#deleteIcon{
+    cursor: pointer;
+}
+/* Gaya tambahan untuk memberikan efek saat input di-fokus */
+/* .search-form input:focus {
+    border: 1px solid #000; /* Contoh warna border saat input di-fokus */
+    /* Anda dapat menyesuaikan warna dan gaya border sesuai kebutuhan desain Anda */
+.section-title h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #000000;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+.section-title h2{
+    color: white;
+}
+.container1{
+    margin-top:0;
+    padding: 50px;
+    display: flex;
+    background-color: #ffffff;
+    flex-wrap:wrap;
+    gap: 20px;
+   cursor: pointer;
+}
+
+.per-content{
+    padding: 30px;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    
+}
+.per-content h2{
+    font-family: 'Josefin Sans', sans-serif;
+   color: white;
+}
+
+.per-content {
+        margin-bottom: 20px; /* Memberikan jarak antara setiap per-content */
+    }
+
+    .img-container {
+        border-radius: 40px;
+        max-width: 300px; /* Sesuaikan lebar gambar sesuai kebutuhan */
+        max-height: auto;
+        overflow: hidden; /* Menyembunyikan bagian gambar yang keluar dari container */
+        transition: transform 0.3s ease; /* Menambahkan efek transisi untuk perubahan transformasi */
+        margin-bottom: 10px; /* Memberikan jarak antara gambar dan deskripsi */
+        cursor: pointer;
+        box-shadow: 6px 4px 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .img-container:hover {
+        transform: scale(1.1); /* Menerapkan efek zoom ketika dihover */
+    }
+
+    .deskripsi {
+        background-color: rgb(255, 255, 255);
+        padding: 10px;
+        text-align: left; /* Menetapkan teks ke kiri */
+        border-radius: 40px;
+    }
+
+    .deskripsi h2,
+    .deskripsi p {
+        margin-bottom: 5px; /* Memberikan jarak antara elemen h2 dan p */
+    }
+
+    .deskripsi h2 {
+        color: black;
+    }
+    .filter-container {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.dropdown {
+    position: absolute;
+   
+    left: 0;
+    margin-left: 8%;
+    top:0;
+    margin-top: 15%;
+}
+
+.dropbtn {
+    width: 100px;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+
+    margin-top: 30px; 
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+    transition: transform 0.3s;
+  transform: scale(1.1);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#arrow-icon {
+    margin-left: 5px;
+}
+
+#noResultsMessage{
+
+    position: absolute; 
+    left: 0;
+    margin-left:43%;
+    font-family: 'Josefin Sans', sans-serif;
+}
