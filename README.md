@@ -87,6 +87,16 @@ Tabel Transaksi
 
 
 
+Penjelasan Endpoint
+
+Pada kodingan ini terdapat endpoint untuk melakukan autentikasi dalam proses login
+sehingga pengguna harus memiliki role yang tepat untuk dapat mengakses penuh fitur dari web ini
+
+kodingan
+<img width="360" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/01b22928-7db0-4368-9ca6-0c8c3ce7ae80">
+<img width="404" alt="image" src="https://github.com/JosiAAA/API_KASIR/assets/102679486/97669925-3e64-493c-944a-a48e38f4984a">
+
+
 
 
 
